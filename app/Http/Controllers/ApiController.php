@@ -5,7 +5,7 @@ namespace App\Http\Controllers;
 use Illuminate\Http\Request;
 use App\Models\Video;
 use App\Models\Category;
-use App\Models\OTP;
+use App\Models\Otp;
 use App\Mail\OtpMail;
 use App\Models\User;
 use App\Models\Soluation;
